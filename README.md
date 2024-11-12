@@ -1,8 +1,7 @@
 # Etsy-Art_Analysis
 
 ## Project Summary
-This repository contains my analysis of Etsy listings, focusing on sales performance and listing characteristics. The data was obtained via the Etsy API and is stored in an SQLite database (`etsy_data.db`). The goal of this analysis is to elucidate best practices for listing art-related items on Etsy to generate traffic and increase sales.
-
+This repository contains my analysis of Etsy listings, focusing on structure and keyword attributes of Etsy listings. The data was obtained via the Etsy API and is stored in an SQLite database (`etsy_data.db`). The goal of this analysis is to elucidate best practices for listing art-related items on Etsy to generate viewing traffic to art related Etsy listings. 
 ## Database Structure
 The database consists of three datasets:
 
@@ -21,7 +20,7 @@ To access the SQLite database:
 The Jupyter Notebooks contain detailed analyses, visualizations, and SQL queries used throughout the project. Please refer to these notebooks for insights and methodologies.
 
 ## Results
-The **Results** folder contains a **PDF version** of the Google Slides presentation, showcasing key visualizations and summarizing best practices for successful Etsy listings.
+The **Results** folder contains a **PDF version** of the Canva Slides presentation, showcasing key visualizations and summarizing best practices for successful Etsy listings.
 
 ## Repository Structure
 The repository is organized into the following main folders:
